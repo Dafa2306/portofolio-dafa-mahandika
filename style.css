@@ -1,0 +1,17 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #6fc5ff;
+}
+
+#project {
+  background-color: #6fc5ff;
+}
+.card-text {
+  text-transform: capitalize;
+  font-size: 20px;
+  text-align: center;
+  background-color: #6fc5ff;
+}
+section {
+  padding-top: 6rem;
+}
