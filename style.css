@@ -15,3 +15,7 @@
 section {
   padding-top: 6rem;
 }
+.card img {
+  gap: 10px;
+  padding: 70px;
+}
